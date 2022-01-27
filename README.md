@@ -9,12 +9,12 @@ Install
 -------
 * Install to python site-packages folder
 ```
-pip install git+https://github.com/pyscf/gvb
+pip install git+https://github.com/hebrewsnabla/gvb
 ```
 
 * Install in a custom folder for development
 ```
-git clone https://github.com/pyscf/gvb /home/abc/local/path
+git clone https://github.com/hebrewsnabla/gvb /home/abc/local/path
 
 # Set pyscf extended module path
 echo 'export PYSCF_EXT_PATH=/home/abc/local/path:$PYSCF_EXT_PATH' >> ~/.bashrc
